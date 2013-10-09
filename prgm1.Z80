@@ -1,0 +1,7 @@
+PROGRAM:ONE
+:Disp "HELLO"
+:Disp "WELCOME TO PRGM","ONE"
+:Disp "PRGM ONE IS CLOSED"
+:Disp "GOODBYE!"
+:Pause
+:Stop
